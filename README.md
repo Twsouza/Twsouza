@@ -1,6 +1,16 @@
 ### Hi there 👋
 
 <!--
+[![Taynan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twsouza&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twsouza&layout=compact&theme=buefy&hide_border=true" /></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Twsouza&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=Twsouza&color=blue)
+
+<!--
 **Twsouza/Twsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
